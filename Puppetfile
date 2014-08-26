@@ -10,4 +10,4 @@ mod 'puppetlabs/mysql', '2.3.0'
 # Git Syntax
 mod 'notifyme',
   :git => 'https://github.com/glarizza/puppet-notifyme.git',
-  :ref => 'master'
+  :ref => 'webinar'
